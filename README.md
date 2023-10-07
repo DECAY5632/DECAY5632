@@ -1,5 +1,8 @@
-### Welcome to my profile!
-<h3 align="center">I am a student who wants to become an app developer.</h3>
+### 👋 Welcome to my profile!
+
+<p>
+I am a student who wants to become an app developer.
+</p>
 
 <!--
 **DECAY5632/DECAY5632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
