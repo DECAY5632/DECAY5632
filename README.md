@@ -1,4 +1,4 @@
-<h2 align="center"> Welcome to my profile! </h2>
+<h2 align="center"> 👋👋 | Welcome to my profile! </h2>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
