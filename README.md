@@ -1,8 +1,9 @@
 ### 👋 Welcome to my profile!
 
 <p>
-  I am learning app development.<br/>
-  I use Flutter to develop a cross-platform mobile app.
+  ● Flutter App
+  ➜ I am learning app development.<br/>
+  ➜ I use Flutter to develop a cross-platform mobile app.
 </p>
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
@@ -11,8 +12,9 @@
 </p>
 
 <p>
-  I also develop a minecraft bedrock edition plugin.<br/>
-  I use PocketMine-MP to develop minecraft server.
+  ● Minecraft Bedrock Edition
+  ➜ I also develop a minecraft bedrock edition plugin.<br/>
+  ➜ I use PocketMine-MP to develop minecraft server.
 </p>
 <p>
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=MineCraft&logoColor=white"/>
