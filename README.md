@@ -8,7 +8,7 @@
   <a href="https://open.spotify.com/user/31zv7afjpzr5lkbs7f2k64l7lkwy?si=d2d917d8be5049e9" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white"/></a>
 </p>
 
-<h2 way to reach me </h2>
+<h3 align="left">You can contact me by discord</h3>
 
 ### DECAY5632#1444
 <p>
