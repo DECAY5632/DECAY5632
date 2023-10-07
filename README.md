@@ -1,7 +1,7 @@
 ### 👋 Welcome to my profile!
 
 <p>
-  ● Flutter App
+  ● Flutter App<br/>
   ➜ I am learning app development.<br/>
   ➜ I use Flutter to develop a cross-platform mobile app.
 </p>
@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  ● Minecraft Bedrock Edition
+  ● Minecraft Bedrock Edition<br/>
   ➜ I also develop a minecraft bedrock edition plugin.<br/>
   ➜ I use PocketMine-MP to develop minecraft server.
 </p>
