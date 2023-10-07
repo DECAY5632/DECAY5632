@@ -14,7 +14,10 @@
 <p>
   ● Minecraft Bedrock Edition<br/>
   ➜ I also develop a minecraft bedrock edition plugin.<br/>
-  ➜ I use PocketMine-MP to develop minecraft server.
+  ➜ I use PocketMine-MP to develop minecraft server.<br/><br/>
+  ● Discord Bot<br/>
+  ➜ I develop a discord bot<br/>
+  ➜ I develop a bot for my minecraft server.
 </p>
 <p>
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=MineCraft&logoColor=white"/>
