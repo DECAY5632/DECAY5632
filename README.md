@@ -15,6 +15,7 @@
   I use PocketMine-MP to develop minecraft server.
 </p>
 <p>
+  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=MineCraft&logoColor=white"/>
   <a href="https://discord.gg/A8mMqgDWj6" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 </p>
 
