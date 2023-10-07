@@ -1,7 +1,13 @@
 ### 👋 Welcome to my profile!
 
 <p>
-  I am a student who wants to become an app developer.
+  I am learning app development.
+  I use Flutter to develop a cross-platform mobile app
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
 </p>
 
 <p>
