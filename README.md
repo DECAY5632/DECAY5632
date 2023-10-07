@@ -8,9 +8,7 @@
   <a href="https://open.spotify.com/user/31zv7afjpzr5lkbs7f2k64l7lkwy?si=d2d917d8be5049e9" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white"/></a>
 </p>
 
-<h3 align="left">You can contact me by discord</h3>
-
-### DECAY5632#1444
+### You can contact me by discord => DECAY5632#1444
 <p>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
 </p>
