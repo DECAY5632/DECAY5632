@@ -2,6 +2,7 @@
 
 <p>
 I am a student who wants to become an app developer.
+<a href="https://open.spotify.com/user/31zv7afjpzr5lkbs7f2k64l7lkwy?si=d2d917d8be5049e9" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white"/></a>
 </p>
 
 <!--
