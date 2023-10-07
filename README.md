@@ -1,9 +1,9 @@
 ### 👋 Welcome to my profile!
 
 <p>
-  ● Flutter App<br/>
-  ➜ I am learning app development.<br/>
-  ➜ I use Flutter to develop a cross-platform mobile app.
+  ╔● Flutter App<br/>
+  ║➜ I am learning app development.<br/>
+  ╚➜ I use Flutter to develop a cross-platform mobile app.
 </p>
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
