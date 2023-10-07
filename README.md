@@ -14,7 +14,8 @@
 <p>
   ╔ ● Minecraft Bedrock Edition<br/>
   ║ ➜ I also develop a minecraft bedrock edition plugin.<br/>
-  ║ ➜ I use PocketMine-MP to develop minecraft server.<br/><br/>
+  ║ ➜ I use PocketMine-MP to develop minecraft server.<br/>
+  ║ <br/>
   ║ ● Discord Bot<br/>
   ║ ➜ I develop a discord bot<br/>
   ╚ ➜ I develop a bot for my minecraft server.
