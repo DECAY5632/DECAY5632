@@ -5,8 +5,8 @@
 </p>
 
 <p>
-  <a href="https://open.spotify.com/user/31zv7afjpzr5lkbs7f2k64l7lkwy?si=d2d917d8be5049e9" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=DECAY5632#1444&logoColor=white"/>
+  <a href="https://open.spotify.com/user/31zv7afjpzr5lkbs7f2k64l7lkwy?si=d2d917d8be5049e9" target="_blank"><img src="https://img.shields.io/badge/도-1DB954?style=flat&logo=Spotify&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/DECAY5632#1444-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 </p>
 
 <!--
