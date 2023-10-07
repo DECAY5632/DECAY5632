@@ -1,5 +1,5 @@
 ### Welcome to my profile!
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<h3 align="center">I am a student who wants to become an app developer.</h3>
 
 <!--
 **DECAY5632/DECAY5632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
