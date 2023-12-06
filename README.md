@@ -17,8 +17,7 @@
   ║ ➜ I use PocketMine-MP to develop minecraft server.<br/>
   ║ <br/>
   ║ ● Discord Bot<br/>
-  ║ ➜ I develop a discord bot<br/>
-  ╚ ➜ I develop a bot for my minecraft server.
+  ╚ ➜ I develop a discord bot for my minecraft server.
 </p>
 <p>
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=MineCraft&logoColor=white"/>
