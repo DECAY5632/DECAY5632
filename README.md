@@ -9,6 +9,14 @@
 </p>
 
 <p>
+  ╔ ● Python<br/>
+  ╚ ➜ I'm learning Python.
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p>
   ╔ ● Minecraft Bedrock Edition<br/>
   ║ ➜ I'm making a Minecraft plugin using Pocketmine-MP<br/>
   ║ <br/>
