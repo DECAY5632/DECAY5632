@@ -2,19 +2,15 @@
 
 <p>
   ╔ ● Flutter App<br/>
-  ║ ➜ I am learning app development.<br/>
-  ╚ ➜ I use Flutter to develop a cross-platform mobile app.
+  ╚ ➜ I'm learning flutter to develop an app.
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
 </p>
 
 <p>
   ╔ ● Minecraft Bedrock Edition<br/>
-  ║ ➜ I also develop a minecraft bedrock edition plugin.<br/>
-  ║ ➜ I use PocketMine-MP to develop minecraft server.<br/>
+  ║ ➜ I'm making a Minecraft plugin using Pocketmine-MP<br/>
   ║ <br/>
   ║ ● Discord Bot<br/>
   ╚ ➜ I develop a discord bot for my minecraft server.
@@ -31,6 +27,7 @@
 
 ### 🎧 My PlayList
 <p>
+  👇 Click on the icon to go to the my spotify profile
   <a href="https://open.spotify.com/user/31hvg52huo4nyayhhepwumt47x3q?si=210071b25dd0442e" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white"/></a>
 </p>
 
