@@ -27,7 +27,7 @@
 
 ### 🎧 My PlayList
 <p>
-  👇 Click on the icon to go to the my spotify profile
+  👇 Click on the icon to go to the my spotify profile<br/>
   <a href="https://open.spotify.com/user/31hvg52huo4nyayhhepwumt47x3q?si=210071b25dd0442e" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white"/></a>
 </p>
 
