@@ -1,9 +1,10 @@
+<div align=center>
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=120&section=header&text=DECAY5632&fontSize=70" />
 
 ## 👋 Welcome to my profile!<br/>
 ### 👨‍🎓 I'm 16 years old living in Korea
 
-## MY TECH
+## 🛠 Skils 
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,6 +25,7 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DECAY5632&show_icons=true&theme=dark)
+<div/>
 
 <!--
 **DECAY5632/DECAY5632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
