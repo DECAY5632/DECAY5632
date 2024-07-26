@@ -20,9 +20,6 @@
 <p>
   <a href="https://open.spotify.com/user/31hvg52huo4nyayhhepwumt47x3q?si=210071b25dd0442e" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white"/></a>
 </p>
-<br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDECAY5632&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div/>
 
 <!--
