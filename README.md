@@ -1,3 +1,6 @@
+### Welcome to my profile!<br/>
+### I'm 16 years old living in Korea
+
 ### 📫 DECAY5632#1444
 <p>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
