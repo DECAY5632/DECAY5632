@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=_auto&height=120&section=header&text=DECAY5632&fontSize=70" />
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 
 ### 👋 Welcome to my profile!<br/>
 ### 👨‍🎓 I'm 16 years old living in Korea 🇰🇷
