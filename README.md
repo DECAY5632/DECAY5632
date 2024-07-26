@@ -1,8 +1,8 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=120&section=header&text=DECAY5632&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=120&section=header&text=DECAY5632&fontSize=70" /><br/>
 
-## 👋 Welcome to my profile!<br/>
-### 👨‍🎓 I'm 16 years old living in Korea
+## 👋 Welcome to my profile!<br/><br/>
+### 👨‍🎓 I'm 16 years old living in Korea<br/>
 
 ## 🛠 Skils 
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
