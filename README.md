@@ -1,33 +1,3 @@
-### 👋 Welcome to my profile!
-
-<p>
-  ╔ ● Flutter App<br/>
-  ╚ ➜ I'm learning flutter to develop an app.
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
-</p>
-
-<p>
-  ╔ ● Python<br/>
-  ╚ ➜ I'm learning Python.
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-<p>
-  ╔ ● Minecraft Bedrock Edition<br/>
-  ║ ➜ I'm making a Minecraft plugin using Pocketmine-MP<br/>
-  ║ <br/>
-  ║ ● Discord Bot<br/>
-  ╚ ➜ I develop a discord bot for my minecraft server.
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=MineCraft&logoColor=white"/>
-  <a href="https://discord.gg/A8mMqgDWj6" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
-</p>
-
 ### 📫 DECAY5632#1444
 <p>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
