@@ -16,13 +16,13 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
 </p>
 
+<!--
 ### 🎧 My PlayList
 <p>
   <a href="https://open.spotify.com/user/31hvg52huo4nyayhhepwumt47x3q?si=210071b25dd0442e" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white"/></a>
 </p>
 <div/>
 
-<!--
 **DECAY5632/DECAY5632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
